@@ -30,7 +30,7 @@ body {
 .card {
     display: flex;
     width: 680px;
-    max-height: 60vh;
+    max-height: 100%;
 }
 
 .image__perfume {
